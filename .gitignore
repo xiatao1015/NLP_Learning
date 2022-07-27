@@ -1,4 +1,6 @@
 .idea/
 ./.idea/.gitignore
 *.pyc
-!/pytorch-basic/chapter01-quickstart/data/tmp.txt
+/pytorch-basic/chapter01-quickstart/data/cifar-10-batches-py/batches.meta
+/pytorch-basic/chapter01-quickstart/data/cifar-10-python.tar.gz
+/pytorch-basic/chapter01-quickstart/data/cifar-10-batches-py
