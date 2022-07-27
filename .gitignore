@@ -1,3 +1,4 @@
 .idea/
 ./.idea/.gitignore
 *.pyc
+!/pytorch-basic/chapter01-quickstart/data/tmp.txt
